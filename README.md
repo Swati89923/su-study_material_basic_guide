@@ -56,18 +56,7 @@ _No frameworks used intentionally to strengthen core fundamentals._
 - ✔️ Demonstrates real-world academic use case  
 
 ---
-su-study_material_basic_guide/
-│
-├── index.html
-├── LinearAlgebra.html
-├── English.html
-├── ITC.html
-├── python.html
-├── BookClub.html
-└── README.md
 
-
----
 
 ## 🎯 What This Project Shows About Me
 
@@ -106,5 +95,4 @@ I believe in **learning by building**, and this project is a step in that direct
 This project represents my **starting point**, not my limit.
 
 
-## 📁 Project Structure
 
