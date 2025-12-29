@@ -1,7 +1,8 @@
-# su-study_material_basic_guide# 📘 SU Study Material – Basic Guide
+# 📘 SU Study Material – Basic Guide
 
-A well-structured **study material website** built to help students quickly access subject-wise resources in a simple and distraction-free way.  
-This project reflects my **foundational web development skills**, logical organization, and ability to convert academic needs into a usable product.
+A subject-wise **study material website** built to help students access academic resources in a clean, simple, and structured manner.
+
+🚧 **Status: Actively Under Development**
 
 ---
 
@@ -12,19 +13,18 @@ This project reflects my **foundational web development skills**, logical organi
 
 ## 📌 Project Overview
 
-This project is a **static educational website** that provides basic study material for multiple subjects in a clean and accessible format.
+This project started as a **static educational website** and is currently being **enhanced step-by-step**.
 
-It is designed with:
-- Simple navigation
-- Subject-wise separation
-- Beginner-friendly structure
-- Zero dependency on frameworks
+The main objective is to:
+- Organize study material subject-wise
+- Keep the UI simple and distraction-free
+- Gradually improve functionality and scalability
 
-The goal was **clarity over complexity**.
+I am intentionally improving this project incrementally to strengthen both **frontend fundamentals and project design thinking**.
 
 ---
 
-## 📂 Subjects Covered
+## 📂 Current Subjects Included
 
 - 📐 Linear Algebra  
 - 📘 English  
@@ -32,67 +32,66 @@ The goal was **clarity over complexity**.
 - 🐍 Python  
 - 📚 Book Club Resources  
 
-Each subject has its own dedicated HTML page for better organization and scalability.
+Each subject has its own dedicated HTML page.
 
 ---
 
-## 🛠️ Tech Stack Used
+## 🛠️ Tech Stack (Current Phase)
 
-- **HTML5** – Structure & content  
-- **CSS (basic)** – Styling & layout  
+- **HTML5** – Core structure  
+- **CSS (basic)** – Styling  
 - **Git & GitHub** – Version control  
 - **GitHub Pages** – Deployment  
 
-_No frameworks used intentionally to strengthen core fundamentals._
+> ⚠️ No frameworks used in the initial phase to ensure strong fundamentals.
 
 ---
 
-## ✨ Key Highlights
+## 🧭 Current Development Focus
 
-- ✔️ Clean and readable code structure  
-- ✔️ Beginner-friendly UI  
-- ✔️ Easy to extend with more subjects  
-- ✔️ Deployed and publicly accessible  
-- ✔️ Demonstrates real-world academic use case  
-
----
-
-
-## 🎯 What This Project Shows About Me
-
-- Strong understanding of **web basics**
-- Ability to **organize information logically**
-- Hands-on experience with **GitHub & deployment**
-- Focus on **usability and clarity**
-- Willingness to build and publish real projects
-
-This project may look simple, but it reflects **solid fundamentals**, which I believe are more important than using heavy frameworks without understanding the basics.
+- ✔️ Improving page structure
+- ✔️ Making content more readable
+- ✔️ Cleaning and standardizing HTML
+- 🔄 Enhancing UI using CSS
+- 🔄 Adding navigation improvements
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Planned Enhancements (Next Phases)
 
-- Add CSS animations for better UX  
-- Convert to React for scalability  
-- Add backend (Spring Boot) for authentication & content management  
-- Make it mobile-responsive  
+- 🎨 Improved CSS styling & animations  
+- 📱 Mobile responsiveness  
+- ⚛️ React-based frontend version  
+- 🔐 Backend integration using **Spring Boot**  
+- 🗂️ Admin-controlled content management  
+
+---
+
+---
+
+## 🎯 What This Project Represents
+
+- Learning by building real projects
+- Focus on **clarity before complexity**
+- Continuous improvement mindset
+- Practical usage of GitHub & deployment
+- Strong academic-to-technical mapping
+
+This project reflects my **growth journey**, not just a final outcome.
 
 ---
 
 ## 🙋‍♀️ About Me
 
-I am a **B.Tech student** actively building projects to strengthen my skills in:
+I am a **B.Tech student** actively developing projects while learning:
 - Web Development
 - Java & Spring Boot
-- Problem Solving
-- Software Engineering Fundamentals
+- Software Engineering Principles
+- Problem Solving & DSA
 
-I believe in **learning by building**, and this project is a step in that direction.
+I prefer building projects **step-by-step with understanding**, rather than copying finished templates.
 
 ---
 
-⭐ If you’re an interviewer reviewing this repository:  
-This project represents my **starting point**, not my limit.
-
-
-
+⭐ If you are an interviewer reviewing this repository:  
+This project is **actively evolving**, and each commit represents my learning progress.
