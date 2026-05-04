@@ -6,10 +6,7 @@ A subject-wise **study material website** built to help students access academic
 
 ---
 
-## 🚀 Live Demo
-👉 https://swati89923.github.io/su-study_material_basic_guide/
 
----
 
 ## 📌 Project Overview
 
